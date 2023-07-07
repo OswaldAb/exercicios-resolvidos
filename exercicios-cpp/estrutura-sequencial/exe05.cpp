@@ -17,7 +17,7 @@ int main(){
 	centimetros = metros * 100;
 	
 	cout << endl; // quebra de linha
-	cout << metros << " m em centimetros é " << centimetros << " cm";
+	cout << metros << " m convertido para centimetros é " << centimetros << " cm";
 	
 	
 }
