@@ -1,0 +1,8 @@
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\bin\Debug\Exe09.exe.config
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\bin\Debug\Exe09.exe
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\bin\Debug\Exe09.pdb
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\obj\Debug\Exe09.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\obj\Debug\Exe09.csproj.SuggestedBindingRedirects.cache
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\obj\Debug\Exe09.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\obj\Debug\Exe09.exe
+C:\Users\roger\OneDrive\Área de Trabalho\osvaldo\exercicios-resolvidos\exercicios-c#\estrutura-sequencial\Exe09\Exe09\obj\Debug\Exe09.pdb
